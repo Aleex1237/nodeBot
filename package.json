@@ -1,0 +1,24 @@
+{
+  "name": "bot-nodejs",
+  "version": "1.0.0",
+  "description": "first bot of discord with nodeJs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleex1237/nodeBot.git"
+  },
+  "author": "Aleex1237",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleex1237/nodeBot/issues"
+  },
+  "homepage": "https://github.com/Aleex1237/nodeBot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "node-fetch": "^3.2.0",
+    "nodemon": "^2.0.15"
+  }
+}
